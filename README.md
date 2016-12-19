@@ -1,2 +1,3 @@
 # hello-world
 So...just trying things out...
+I am going to write a little bit about myself. I am 19 years old student from Czech republic. I love my country and I would really love to know how to code. So far I am enjoying coding, but sometimes I am getting lost in the information I am getting from tutorials so i hope i will improve!
